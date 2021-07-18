@@ -62,7 +62,7 @@
                   <nav class="main-menu ">
                     <ul class="menu-area-main">
                       <li class="active"> <a href="<?php echo base_url(); ?>home">Home</a> </li>
-                      <li> <a href="#courses">My Courses </a> </li>
+                      <li> <a href="#projects">Projects </a> </li>
                       <li> <a href="#about">About</a> </li>
                       <li> <a href="#learn">My Profile</a> </li>
                       <li> <a href="#important">Become an Instructor</a> </li>

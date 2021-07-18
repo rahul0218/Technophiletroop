@@ -5,9 +5,7 @@
       <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
         <div class="about-box">
           <h2>About <strong class="yellow">Us</strong></h2>
-          <p> orem ipsum dolor sit amet, consectetur adipisicing elit. Quas voluptatem maiores eaque similique non distinctio voluptates perspiciatis omnis, repellendus ipsa aperiam, laudantium voluptatum nulla?.
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta, assumenda, vo
-          luptatum. Libero eligendi molestias iure error animi totam laudantium, aspernatur similique id eos at consectetur illo culpa,  </p>
+          <p> Technophiletroop is known for development and design websites to small business. We are one of the best team in providing online resources that support businesses through make website to appearances in the digital world. In the past we have created many web site that specializes in developing consumer products, such as interior design, wood products and many more. With our technical expertise can provide them with information on all aspects related topics like digital marketing.  </p>
           <a href="Javascript:void(0)">Read more</a>
         </div>
       </div>
@@ -79,7 +77,7 @@
 
 <!-- end our -->
 <!-- Courses -->
-<div id="courses" class="Courses">
+<div id="projects" class="Courses">
   <div class="container-fluid padding_left3">
     <div class="row">
       <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
@@ -132,9 +130,9 @@
       <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 border_right">
         <div class="box_text">
           <div class="titlepage">
-            <h2>My <strong class="yellow"> Courses</strong></h2>
+            <h2>My <strong class="yellow"> Projects</strong></h2>
           </div>
-          <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
+          <p>We developed numerous web sites for different customers. Our website development service customizable to make it accessible only to those who want their business lift-up online. We built a Web site that enables companies and individuals, in various countries of the world with some or most services they offer, to reach all major markets through one platform.</p>
           <a href="Javascript:void(0)">Read more</a>
         </div>
       </div> 
